@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 bd-hackathon-archive
+# bd-hackathon-archive
 
 ### *Every problem. Every hackathon. One place.*
 
@@ -34,15 +34,15 @@ Whether you're prepping for your first hackathon, building a practice set, or ju
 
 ## Hackathon Index
 
-| Hackathon | Host University | Year | Problems | Folder |
-|---|---|---|---|---|
-| BUET Hackathon | BUET | 2026 | 1 | [`hackathons/BUET-Hackathon-2026/problems/`](hackathons/BUET-Hackathon-2026/problems/) |
-| SUST Hackathon | SUST | 2026 | 5 | [`hackathons/SUST-Hackathon-2026/problems/`](hackathons/SUST-Hackathon-2026/problems/) |
-| BUBT Hackathon | BUBT | 2025 | 1 | [`hackathons/BUBT-Hackathon-2025/problems/`](hackathons/BUBT-Hackathon-2025/problems/) |
-| CUET MicroOps Hackathon | CUET | 2025 | 1 | [`hackathons/CUET-MicroOps-2025/problems/`](hackathons/CUET-MicroOps-2025/problems/) |
-| PSTU IT Carnival Hackathon | PSTU | 2026 | 1 | [`hackathons/PSTU-IT-Carnival-2026/problems/`](hackathons/PSTU-IT-Carnival-2026/problems/) |
-| IUT IT Fest | IUT | 2026 | 1 | [`hackathons/IUT-IT-Fest-2026/problems/`](hackathons/IUT-IT-Fest-2026/problems/) |
-| IUT Techathon | IUT | 2026 | 2 | [`hackathons/IUT-Techathon-2026/problems/`](hackathons/IUT-Techathon-2026/problems/) |
+| Hackathon | Host University | Year | Folder |
+|---|---|---|---|
+| BUET Hackathon | BUET | 2026 | [`hackathons/BUET-Hackathon-2026/problems/`](hackathons/BUET-Hackathon-2026/problems/) |
+| SUST Hackathon | SUST | 2026 | [`hackathons/SUST-Hackathon-2026/problems/`](hackathons/SUST-Hackathon-2026/problems/) |
+| BUBT Hackathon | BUBT | 2025 | [`hackathons/BUBT-Hackathon-2025/problems/`](hackathons/BUBT-Hackathon-2025/problems/) |
+| CUET MicroOps Hackathon | CUET | 2025 | [`hackathons/CUET-MicroOps-2025/problems/`](hackathons/CUET-MicroOps-2025/problems/) |
+| PSTU IT Carnival Hackathon | PSTU | 2026 | [`hackathons/PSTU-IT-Carnival-2026/problems/`](hackathons/PSTU-IT-Carnival-2026/problems/) |
+| IUT IT Fest | IUT | 2026 | [`hackathons/IUT-IT-Fest-2026/problems/`](hackathons/IUT-IT-Fest-2026/problems/) |
+| IUT Techathon | IUT | 2026 | [`hackathons/IUT-Techathon-2026/problems/`](hackathons/IUT-Techathon-2026/problems/) |
 
 *Don't see a hackathon listed? [Add it](CONTRIBUTING.md#adding-a-new-hackathon-that-doesnt-exist-yet) — the archive grows with every contributor.*
 
@@ -60,7 +60,7 @@ Top contributors get featured in this section. Submit a PR and claim your spot.
 
 <div align="center">
 
-Made with ❤️ for the Bangladesh tech community
+Made with love for the Bangladesh tech community
 
 Created & maintained by [@sakibul-shovon](https://github.com/sakibul-shovon)
 

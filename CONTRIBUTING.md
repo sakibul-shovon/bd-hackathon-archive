@@ -18,8 +18,7 @@ Anyone. Students, alumni, organizers, judges, participants, or someone who just 
 2. **Navigate** to the correct `hackathons/[hackathon-name]/problems/` folder for the event you're contributing to.
 3. **Drop your file(s) in** — PDF, JPG, PNG, or JSON only.
 4. **Follow the file naming convention** (see below).
-5. **Update the `Problems` count** for that hackathon in the main [README.md](README.md) table.
-6. **Submit a Pull Request** using the provided PR template.
+5. **Submit a Pull Request** using the provided PR template.
 
 That's it — no build steps, no dependencies, no CI to fight with. This is a documentation/archive repo.
 
