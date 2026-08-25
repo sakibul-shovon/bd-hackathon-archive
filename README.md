@@ -22,6 +22,7 @@
 - [Hackathon Index](#hackathon-index)
 - [How to Contribute](#how-to-contribute)
 - [Hall of Fame](#hall-of-fame)
+- [Takedown Requests](#takedown-requests)
 - [License](#license)
 
 ---
@@ -55,6 +56,10 @@ This archive only exists because people share what they have. Got a problem set 
 *Be the first contributor — your name goes here!*
 
 Top contributors get featured in this section. Submit a PR and claim your spot.
+
+## Takedown Requests
+
+If you're an organizer and don't want your hackathon's problem statement listed here, open an issue and it'll be removed right away — no questions asked.
 
 ---
 

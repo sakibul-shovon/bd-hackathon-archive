@@ -51,6 +51,10 @@ Just contributed? Let people know — it helps the archive grow. Feel free to us
 
 > "Just contributed to bd-hackathon-archive — an open archive of Bangladesh hackathon problem sets! 🎉 Check it out: github.com/sakibul-shovon/bd-hackathon-archive #Bangladesh #OpenSource #Hackathon"
 
+## Takedown requests
+
+If you're an organizer and don't want your hackathon's problem statement listed here, open an issue and it'll be removed right away — no questions asked.
+
 ## Code of Conduct
 
 Be respectful, be kind, and assume good intent — this project exists for everyone in the Bangladesh tech community, regardless of background or experience level. Harassment, discrimination, or disrespectful behavior of any kind won't be tolerated.
