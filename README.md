@@ -54,7 +54,7 @@ This archive only exists because people share what they have. Got a problem set 
 
 ## Hall of Fame
 
-*Be the first contributor — your name goes here!*
+- [@hossainrasel1042](https://github.com/hossainrasel1042) — BUET Hackathon 2024 final round problem statement
 
 Top contributors get featured in this section. Submit a PR and claim your spot.
 
