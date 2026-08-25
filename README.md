@@ -44,6 +44,7 @@ Whether you're prepping for your first hackathon, building a practice set, or ju
 | PSTU IT Carnival Hackathon | PSTU | 2026 | [`hackathons/PSTU-IT-Carnival-2026/problems/`](hackathons/PSTU-IT-Carnival-2026/problems/) |
 | IUT IT Fest | IUT | 2026 | [`hackathons/IUT-IT-Fest-2026/problems/`](hackathons/IUT-IT-Fest-2026/problems/) |
 | IUT Techathon | IUT | 2026 | [`hackathons/IUT-Techathon-2026/problems/`](hackathons/IUT-Techathon-2026/problems/) |
+| BUET Hackathon | BUET | 2024 | [`hackathons/BUET-Hackathon-2024/problems/`](hackathons/BUET-Hackathon-2024/problems/) |
 
 *Don't see a hackathon listed? [Add it](CONTRIBUTING.md#adding-a-new-hackathon-that-doesnt-exist-yet) — the archive grows with every contributor.*
 
