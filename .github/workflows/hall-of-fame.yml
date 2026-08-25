@@ -1,0 +1,43 @@
+name: Update Hall of Fame
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-hall-of-fame:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Add contributor to Hall of Fame
+        env:
+          USERNAME: ${{ github.event.pull_request.user.login }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+        run: |
+          if grep -qF "[@${USERNAME}]" README.md; then
+            echo "Already listed, skipping."
+            exit 0
+          fi
+
+          ENTRY="- [@${USERNAME}](https://github.com/${USERNAME}) — [${PR_TITLE}](${PR_URL})"
+
+          awk -v entry="$ENTRY" '
+            /^## Hall of Fame/ { print; print entry; next }
+            { print }
+          ' README.md > README.md.tmp && mv README.md.tmp README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Add ${{ github.event.pull_request.user.login }} to Hall of Fame"
+          file_pattern: README.md
