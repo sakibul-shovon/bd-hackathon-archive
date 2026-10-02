@@ -53,6 +53,7 @@ Whether you're prepping for your first hackathon, building a practice set, or ju
 This archive only exists because people share what they have. Got a problem set sitting in your downloads folder? Drop it in. Full walkthrough — file naming, folder structure, PR checklist — is in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Hall of Fame
+- [@Copilot](https://github.com/Copilot) — [Fix update-hall-of-fame workflow push permissions on merged PRs](https://github.com/sakibul-shovon/bd-hackathon-archive/pull/3)
 
 - [@hossainrasel1042](https://github.com/hossainrasel1042) — BUET Hackathon 2024 final round problem statement
 
